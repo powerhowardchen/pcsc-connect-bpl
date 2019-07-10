@@ -1,5 +1,5 @@
 # pcsc-connect-bpl
-PCSC Access component for Delphi XE10
+PCSC Card Reader Access component for Delphi XE10
 
 This component rewrites from "https://github.com/johnidm/PCSCSmartCardComponent."
 
